@@ -5,7 +5,24 @@ h1{
     font-family: 'Playfair Display', serif;
     color: #626262;
 }
+
 button{
     display: block;
     margin: 0 auto;
+}
+
+/* Навигация сайта */
+.navbar {
+    text-align: center;
+  }
+
+.nav-list {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item{
+    display: inline-block;
 }
